@@ -1,0 +1,10 @@
+datadog_api_key: abc...123
+datadog_app_key: def...456
+ignore_event_errors: true
+start_tags:
+  - aStartTag:aValue
+end_tags:
+  - anEndTag:theValue
+event_tags:
+  - eventTag:someValue
+  - noValueTag
